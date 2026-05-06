@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **leona.goel23@gmail.com**
 
-- 📄 Know about my experiences [http://www.linkedin.com/in/leona-goel-866344314](http://www.linkedin.com/in/leona-goel-866344314)
+- 📄 Know about my experiences [http://www.linkedin.com/in/leona-goel-866344314](http://www.linkedin.com/in/leona-goel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
