@@ -22,30 +22,39 @@
 
 ## 👩‍💻 About Me
 
-```python
-class LeonaGoel:
-    def __init__(self):
-        self.name        = "Leona Goel"
-        self.role        = "Full-Stack Developer & ML Engineer"
-        self.university  = "Vellore Institute of Technology (2024-2028)"
-        self.location    = "New Delhi, India"
-        self.email       = "leona.goel23@gmail.com"
-        self.linkedin    = "linkedin.com/in/leona-goel-866344314"
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-    def currently(self):
-        return {
-            "building"   : "Full-stack apps with MERN Stack",
-            "learning"   : "Cloud Computing (AWS / Azure) & Generative AI",
-            "open_to"    : "ML collaborations — NLP & recommendation systems",
-            "exploring"  : "Optimizing APIs & database query performance",
-        }
+Hi! I'm **Leona** — a Computer Science undergrad at **VIT Bhopal** who loves turning ideas into real, deployed software. I care about clean code, good UX, and building things that actually help people.
 
-    def ask_me_about(self):
-        return ["Python", "Software Development", "Open Source", "Hackathons"]
+<br/>
 
-    def __repr__(self):
-        return f"Engineer | Builder | Open Source Contributor"
-```
+🎓 &nbsp;**B.Tech CS** — Vellore Institute of Technology *(2024–2028)*
+📍 &nbsp;**Based in** New Delhi, India
+📬 &nbsp;**Reach me at** [leona.goel23@gmail.com](mailto:leona.goel23@gmail.com)
+🔗 &nbsp;**LinkedIn** [leona-goel-866344314](https://www.linkedin.com/in/leona-goel-866344314)
+
+<br/>
+
+### 🔥 Right Now
+
+| Status | What |
+|--------|------|
+| 🔨 &nbsp;**Building** | Full-stack web apps with MERN Stack |
+| ☁️ &nbsp;**Learning** | Cloud Computing (AWS / Azure) & Generative AI |
+| 🤝 &nbsp;**Open to** | ML collaborations — NLP & recommendation systems |
+| 💡 &nbsp;**Exploring** | Optimizing APIs & database query performance |
+
+<br/>
+
+### 💬 Ask Me About
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software%20Development-6366f1?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-22c55e?style=flat-square&logo=github&logoColor=white)
+![Hackathons](https://img.shields.io/badge/Hackathons-f59e0b?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ec4899?style=flat-square&logo=scikitlearn&logoColor=white)
+
+<br clear="right"/>
 
 ---
 
