@@ -22,41 +22,29 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+```json
+{
+  "name":         "Leona Goel",
+  "role":         "Full-Stack Engineer · ML Enthusiast",
+  "degree":       "B.Tech CS — VIT Bhopal (2024–2028)",
+  "base":         "New Delhi, India",
+  "focus":        ["MERN Stack", "ML pipelines & NLP", "Cloud (AWS · GCP)"],
+  "sih_2025":     { "rank": 75, "of": 950, "result": "National Finalist 🏆" },
+  "users_served": 200,
+  "open_source":  true,
+  "email":        "leona.goel23@gmail.com"
+}
+```
 
-Hi! I'm **Leona** — a Computer Science undergrad at **VIT Bhopal** who loves turning ideas into real, deployed software. I care about clean code, good UX, and building things that actually help people.
+```bash
+$ ./status --now
+  ● Building   →  Full-stack apps with MERN Stack
+  ● Learning   →  Cloud Computing (AWS / GCP) & Generative AI
+  ● Open to    →  ML collaborations — NLP & recommendation systems
+  ● Exploring  →  API optimisation & database query performance
+```
 
-<br/>
-
-🎓 &nbsp;**B.Tech CS** — Vellore Institute of Technology *(2024–2028)*
-📍 &nbsp;**Based in** New Delhi, India
-📬 &nbsp;**Reach me at** [leona.goel23@gmail.com](mailto:leona.goel23@gmail.com)
-🔗 &nbsp;**LinkedIn** [leona-goel-866344314](https://www.linkedin.com/in/leona-goel-866344314)
-
-<br/>
-
-### 🔥 Right Now
-
-| Status | What |
-|--------|------|
-| 🔨 &nbsp;**Building** | Full-stack web apps with MERN Stack |
-| ☁️ &nbsp;**Learning** | Cloud Computing (AWS / Azure) & Generative AI |
-| 🤝 &nbsp;**Open to** | ML collaborations — NLP & recommendation systems |
-| 💡 &nbsp;**Exploring** | Optimizing APIs & database query performance |
-
-<br/>
-
-### 💬 Ask Me About
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Software Development](https://img.shields.io/badge/Software%20Development-6366f1?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20Source-22c55e?style=flat-square&logo=github&logoColor=white)
-![Hackathons](https://img.shields.io/badge/Hackathons-f59e0b?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ec4899?style=flat-square&logo=scikitlearn&logoColor=white)
-
-<br clear="right"/>
-
----
+> Hi! I'm **Leona** — a CS undergrad at **VIT Bhopal** who loves turning ideas into real, deployed software. I care about clean code, good UX, and building things that actually help people.
 
 ## 🏆 Highlights
 
